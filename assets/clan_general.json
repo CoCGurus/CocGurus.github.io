@@ -1,0 +1,65 @@
+{
+  "width": 800,
+  "height": 425,
+  "background": {
+    "type": "color",
+    "data": "#333"
+  },
+  "elements": [
+    {
+      "type": "image",
+      "url": "https://cocgurus.github.io/assets/trophy_64x64.png",
+      "position": [60, 220]
+    },
+    {
+      "type": "text",
+      "content": "Total Points",
+      "color": "white",
+      "font": "15px SupercellMagic",
+      "position": [130, 270]
+    },
+    {
+      "type": "image",
+      "url": "https://cocgurus.github.io/assets/versus_trophy_64x64.png",
+      "position": [60, 320]
+    },
+    {
+      "type": "text",
+      "content": "Versus Points",
+      "color": "white",
+      "font": "15px SupercellMagic",
+      "position": [130, 370]
+    },
+    {
+      "type": "image",
+      "url": "https://cocgurus.github.io/assets/wars_64x64.png",
+      "position": [610, 220]
+    },
+    {
+      "type": "text",
+      "content": "War Wins",
+      "color": "white",
+      "font": "15px SupercellMagic",
+      "position": [680, 270]
+    },
+    {
+      "type": "image",
+      "url": "https://cocgurus.github.io/assets/members_64x64.png",
+      "position": [610, 320]
+    },
+    {
+      "type": "text",
+      "content": "Members",
+      "color": "white",
+      "font": "15px SupercellMagic",
+      "position": [680, 370]
+    },
+    {
+      "type": "text",
+      "content": "Top 3 Members",
+      "color": "white",
+      "font": "15px SupercellMagic",
+      "position": [350, 245]
+    }
+  ]
+}
